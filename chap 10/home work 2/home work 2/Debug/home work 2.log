@@ -1,0 +1,4 @@
+﻿  powerpoint.cpp
+e:\comp sci work\chap 10\home work 2\home work 2\powerpoint.cpp(37): warning C4930: 'std::string firstname(void)': prototyped function not called (was a variable definition intended?)
+  home work 2.vcxproj -> E:\Comp Sci work\chap 10\home work 2\Debug\home work 2.exe
+  home work 2.vcxproj -> E:\Comp Sci work\chap 10\home work 2\Debug\home work 2.pdb (Partial PDB)

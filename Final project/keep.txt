@@ -1,0 +1,84 @@
+else
+							{
+								year = 2017;
+								for (int i = 0; i < numOfQuaters; i++)
+								{
+									if (i == 0)
+										for (int j = 0; j < numOfExpPerQuart; j++)
+										{
+											InputFile >> expenseAmt;
+											InputFile >> expenseName;
+
+											if (j == 0)
+												Food2017 += expenseAmt;
+											else if (j == 1)
+												Bev2017 += expenseAmt;
+											else
+												Serv2017 += expenseAmt;
+
+											OutputFile << fixed << showpoint << setprecision(2);
+											OutputFile << "In Quarter " << (i + 1) << " of year " << year
+												<< " you spent $" << expenseAmt << ", on " << expenseName << endl;
+										}
+									OutputFile << "#####################################################################" << endl;
+								}
+							}
+							if (i == 1)
+								for (int j = 0; j < numOfExpPerQuart; j++)
+								{
+									InputFile >> expenseAmt;
+									InputFile >> expenseName;
+
+									if (j == 0)
+										Food2017 += expenseAmt;
+									else if (j == 1)
+										Bev2017 += expenseAmt;
+									else
+										Serv2017 += expenseAmt;
+
+									OutputFile << fixed << showpoint << setprecision(2);
+									OutputFile << "In Quarter " << (i + 1) << " of year " << year
+										<< " you spent $" << expenseAmt << ", on " << expenseName << endl;
+								}
+							OutputFile << "#####################################################################" << endl;
+						}
+						if (i == 2)
+
+							for (int j = 0; j < numOfExpPerQuart; j++)
+							{
+								InputFile >> expenseAmt;
+								InputFile >> expenseName;
+
+								if (j == 0)
+									Food2017 += expenseAmt;
+								else if (j == 1)
+									Bev2017 += expenseAmt;
+								else
+									Serv2017 += expenseAmt;
+
+								OutputFile << fixed << showpoint << setprecision(2);
+								OutputFile << "In Quarter " << (i + 1) << " of year " << year
+									<< " you spent $" << expenseAmt << ", on " << expenseName << endl;
+							}
+						OutputFile << "#####################################################################" << endl;
+					}
+					if (i == 3)
+
+						for (int j = 0; j < numOfExpPerQuart; j++)
+						{
+							InputFile >> expenseAmt;
+							InputFile >> expenseName;
+
+							if (j == 0)
+								Food2017 += expenseAmt;
+							else if (j == 1)
+								Bev2017 += expenseAmt;
+							else
+								Serv2017 += expenseAmt;
+
+							OutputFile << fixed << showpoint << setprecision(2);
+							OutputFile << "In Quarter " << (i + 1) << " of year " << year
+								<< " you spent $" << expenseAmt << ", on " << expenseName << endl;
+						}
+					OutputFile << "#####################################################################" << endl;
+				}

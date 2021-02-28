@@ -1,0 +1,31 @@
+55236.20  Food
+6521.00  Beverages
+2265.99  Services
+
+7854.20  Food
+65256.00  Beverages
+2875.99  Services
+
+55236.20  Food
+65452451.00  Beverages
+2745265.99  Services
+
+59855236.20  Food
+65123.00  Beverages
+265.99  Services
+
+236.20  Food
+21.00  Beverages
+65.99  Services
+
+556.20  Food
+65.00  Beverages
+22.99  Services
+
+536.20  Food
+61.00  Beverages
+25.99  Services
+
+5436.20  Food
+421.00  Beverages
+465.99  Services

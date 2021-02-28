@@ -1,0 +1,21 @@
+﻿  boysGirls.cpp
+d:\comp sci work\test3\boysgirls\boysgirls\boysgirls.cpp(16): warning C4129: 'C': unrecognized character escape sequence
+d:\comp sci work\test3\boysgirls\boysgirls\boysgirls.cpp(16): warning C4129: 'T': unrecognized character escape sequence
+d:\comp sci work\test3\boysgirls\boysgirls\boysgirls.cpp(16): warning C4129: 'B': unrecognized character escape sequence
+d:\comp sci work\test3\boysgirls\boysgirls\boysgirls.cpp(17): warning C4129: 'C': unrecognized character escape sequence
+d:\comp sci work\test3\boysgirls\boysgirls\boysgirls.cpp(17): warning C4129: 'T': unrecognized character escape sequence
+d:\comp sci work\test3\boysgirls\boysgirls\boysgirls.cpp(17): warning C4129: 'G': unrecognized character escape sequence
+d:\comp sci work\test3\boysgirls\boysgirls\boysgirls.cpp(31): warning C4129: 'C': unrecognized character escape sequence
+d:\comp sci work\test3\boysgirls\boysgirls\boysgirls.cpp(31): warning C4129: 'T': unrecognized character escape sequence
+d:\comp sci work\test3\boysgirls\boysgirls\boysgirls.cpp(31): warning C4129: 'B': unrecognized character escape sequence
+d:\comp sci work\test3\boysgirls\boysgirls\boysgirls.cpp(38): warning C4129: 'C': unrecognized character escape sequence
+d:\comp sci work\test3\boysgirls\boysgirls\boysgirls.cpp(38): warning C4129: 'T': unrecognized character escape sequence
+d:\comp sci work\test3\boysgirls\boysgirls\boysgirls.cpp(38): warning C4129: 'G': unrecognized character escape sequence
+d:\comp sci work\test3\boysgirls\boysgirls\boysgirls.cpp(44): warning C4129: 'C': unrecognized character escape sequence
+d:\comp sci work\test3\boysgirls\boysgirls\boysgirls.cpp(44): warning C4129: 'T': unrecognized character escape sequence
+d:\comp sci work\test3\boysgirls\boysgirls\boysgirls.cpp(44): warning C4129: 'B': unrecognized character escape sequence
+d:\comp sci work\test3\boysgirls\boysgirls\boysgirls.cpp(45): warning C4129: 'C': unrecognized character escape sequence
+d:\comp sci work\test3\boysgirls\boysgirls\boysgirls.cpp(45): warning C4129: 'T': unrecognized character escape sequence
+d:\comp sci work\test3\boysgirls\boysgirls\boysgirls.cpp(45): warning C4129: 'G': unrecognized character escape sequence
+d:\comp sci work\test3\boysgirls\boysgirls\boysgirls.cpp(13): warning C4101: 'isPopular': unreferenced local variable
+d:\comp sci work\test3\boysgirls\boysgirls\boysgirls.cpp(60): error C4716: 'binarySearch': must return a value

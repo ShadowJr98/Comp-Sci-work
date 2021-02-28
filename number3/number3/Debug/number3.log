@@ -1,0 +1,4 @@
+﻿  mathtutor.cpp
+c:\users\elisofly\desktop\number3\number3\mathtutor.cpp(10): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+  number3.vcxproj -> C:\Users\elisofly\Desktop\number3\Debug\number3.exe
+  number3.vcxproj -> C:\Users\elisofly\Desktop\number3\Debug\number3.pdb (Partial PDB)

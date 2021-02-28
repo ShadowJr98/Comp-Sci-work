@@ -1,0 +1,4 @@
+﻿  number6.cpp
+e:\rock,paper,scissors\rock,paper,scissors\number6.cpp(15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  rock,paper,scissors.vcxproj -> E:\rock,paper,scissors\Debug\rock,paper,scissors.exe
+  rock,paper,scissors.vcxproj -> E:\rock,paper,scissors\Debug\rock,paper,scissors.pdb (Partial PDB)

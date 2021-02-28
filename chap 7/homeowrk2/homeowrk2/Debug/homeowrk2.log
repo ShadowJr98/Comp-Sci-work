@@ -1,0 +1,7 @@
+﻿  hw2.cpp
+e:\comp sci work\homeowrk2\homeowrk2\hw2.cpp(16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\comp sci work\homeowrk2\homeowrk2\hw2.cpp(17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\comp sci work\homeowrk2\homeowrk2\hw2.cpp(21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\comp sci work\homeowrk2\homeowrk2\hw2.cpp(23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  homeowrk2.vcxproj -> E:\Comp Sci work\homeowrk2\Debug\homeowrk2.exe
+  homeowrk2.vcxproj -> E:\Comp Sci work\homeowrk2\Debug\homeowrk2.pdb (Partial PDB)

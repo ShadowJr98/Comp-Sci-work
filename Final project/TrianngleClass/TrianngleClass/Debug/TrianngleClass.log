@@ -1,0 +1,4 @@
+﻿  triangle.cpp
+e:\comp sci work\final project\trianngleclass\trianngleclass\triangle.cpp(39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  TrianngleClass.vcxproj -> E:\Comp Sci work\Final project\TrianngleClass\Debug\TrianngleClass.exe
+  TrianngleClass.vcxproj -> E:\Comp Sci work\Final project\TrianngleClass\Debug\TrianngleClass.pdb (Partial PDB)
