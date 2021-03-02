@@ -1,0 +1,4 @@
+﻿  mortgagePayments.cpp
+e:\comop sci 2\accounts\accounts\mortgagepayments.cpp(34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  accounts.vcxproj -> E:\comop sci 2\accounts\Debug\mortgage.exe
+  accounts.vcxproj -> E:\comop sci 2\accounts\Debug\mortgage.pdb (Partial PDB)

@@ -1,0 +1,80 @@
+﻿Build started 5/4/2018 3:37:25 PM.
+     1>Project "E:\comop sci 2\Feetandinches\Feetandinches\Feetandinches.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>e:\comop sci 2\feetandinches\feetandinches\source.cpp(36): error C2800: 'operator ?' cannot be overloaded
+     1>e:\comop sci 2\feetandinches\feetandinches\source.cpp(38): error C2039: '++': is not a member of 'FeetInches'
+         e:\comop sci 2\feetandinches\feetandinches\source.cpp(6): note: see declaration of 'FeetInches'
+     1>e:\comop sci 2\feetandinches\feetandinches\source.cpp(40): error C2065: 'inches': undeclared identifier
+     1>e:\comop sci 2\feetandinches\feetandinches\source.cpp(41): error C3861: 'simplify': identifier not found
+     1>e:\comop sci 2\feetandinches\feetandinches\source.cpp(42): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+     1>e:\comop sci 2\feetandinches\feetandinches\source.cpp(44): error C2039: '++': is not a member of 'FeetInches'
+         e:\comop sci 2\feetandinches\feetandinches\source.cpp(6): note: see declaration of 'FeetInches'
+     1>e:\comop sci 2\feetandinches\feetandinches\source.cpp(46): error C2065: 'feet': undeclared identifier
+     1>e:\comop sci 2\feetandinches\feetandinches\source.cpp(46): error C2065: 'inches': undeclared identifier
+     1>e:\comop sci 2\feetandinches\feetandinches\source.cpp(47): error C2065: 'inches': undeclared identifier
+     1>e:\comop sci 2\feetandinches\feetandinches\source.cpp(48): error C3861: 'simplify': identifier not found
+     1>e:\comop sci 2\feetandinches\feetandinches\source.cpp(60): error C2059: syntax error: '='
+     1>e:\comop sci 2\feetandinches\feetandinches\source.cpp(61): error C2059: syntax error: ';'
+     1>e:\comop sci 2\feetandinches\feetandinches\source.cpp(64): error C2039: '>': is not a member of 'FeetInches'
+         e:\comop sci 2\feetandinches\feetandinches\source.cpp(6): note: see declaration of 'FeetInches'
+     1>e:\comop sci 2\feetandinches\feetandinches\source.cpp(67): error C2065: 'feet': undeclared identifier
+     1>e:\comop sci 2\feetandinches\feetandinches\source.cpp(67): error C2248: 'FeetInches::feet': cannot access private member declared in class 'FeetInches'
+         e:\comop sci 2\feetandinches\feetandinches\source.cpp(8): note: see declaration of 'FeetInches::feet'
+         e:\comop sci 2\feetandinches\feetandinches\source.cpp(6): note: see declaration of 'FeetInches'
+     1>e:\comop sci 2\feetandinches\feetandinches\source.cpp(69): error C2065: 'feet': undeclared identifier
+     1>e:\comop sci 2\feetandinches\feetandinches\source.cpp(69): error C2248: 'FeetInches::feet': cannot access private member declared in class 'FeetInches'
+         e:\comop sci 2\feetandinches\feetandinches\source.cpp(8): note: see declaration of 'FeetInches::feet'
+         e:\comop sci 2\feetandinches\feetandinches\source.cpp(6): note: see declaration of 'FeetInches'
+     1>e:\comop sci 2\feetandinches\feetandinches\source.cpp(69): error C2065: 'inches': undeclared identifier
+     1>e:\comop sci 2\feetandinches\feetandinches\source.cpp(69): error C2248: 'FeetInches::inches': cannot access private member declared in class 'FeetInches'
+         e:\comop sci 2\feetandinches\feetandinches\source.cpp(9): note: see declaration of 'FeetInches::inches'
+         e:\comop sci 2\feetandinches\feetandinches\source.cpp(6): note: see declaration of 'FeetInches'
+     1>e:\comop sci 2\feetandinches\feetandinches\source.cpp(75): error C2039: '<': is not a member of 'FeetInches'
+         e:\comop sci 2\feetandinches\feetandinches\source.cpp(6): note: see declaration of 'FeetInches'
+     1>e:\comop sci 2\feetandinches\feetandinches\source.cpp(78): error C2065: 'feet': undeclared identifier
+     1>e:\comop sci 2\feetandinches\feetandinches\source.cpp(78): error C2248: 'FeetInches::feet': cannot access private member declared in class 'FeetInches'
+         e:\comop sci 2\feetandinches\feetandinches\source.cpp(8): note: see declaration of 'FeetInches::feet'
+         e:\comop sci 2\feetandinches\feetandinches\source.cpp(6): note: see declaration of 'FeetInches'
+     1>e:\comop sci 2\feetandinches\feetandinches\source.cpp(80): error C2065: 'feet': undeclared identifier
+     1>e:\comop sci 2\feetandinches\feetandinches\source.cpp(80): error C2248: 'FeetInches::feet': cannot access private member declared in class 'FeetInches'
+         e:\comop sci 2\feetandinches\feetandinches\source.cpp(8): note: see declaration of 'FeetInches::feet'
+         e:\comop sci 2\feetandinches\feetandinches\source.cpp(6): note: see declaration of 'FeetInches'
+     1>e:\comop sci 2\feetandinches\feetandinches\source.cpp(80): error C2065: 'inches': undeclared identifier
+     1>e:\comop sci 2\feetandinches\feetandinches\source.cpp(80): error C2248: 'FeetInches::inches': cannot access private member declared in class 'FeetInches'
+         e:\comop sci 2\feetandinches\feetandinches\source.cpp(9): note: see declaration of 'FeetInches::inches'
+         e:\comop sci 2\feetandinches\feetandinches\source.cpp(6): note: see declaration of 'FeetInches'
+     1>e:\comop sci 2\feetandinches\feetandinches\source.cpp(86): error C2039: '==': is not a member of 'FeetInches'
+         e:\comop sci 2\feetandinches\feetandinches\source.cpp(6): note: see declaration of 'FeetInches'
+     1>e:\comop sci 2\feetandinches\feetandinches\source.cpp(89): error C2065: 'feet': undeclared identifier
+     1>e:\comop sci 2\feetandinches\feetandinches\source.cpp(89): error C2248: 'FeetInches::feet': cannot access private member declared in class 'FeetInches'
+         e:\comop sci 2\feetandinches\feetandinches\source.cpp(8): note: see declaration of 'FeetInches::feet'
+         e:\comop sci 2\feetandinches\feetandinches\source.cpp(6): note: see declaration of 'FeetInches'
+     1>e:\comop sci 2\feetandinches\feetandinches\source.cpp(89): error C2065: 'inches': undeclared identifier
+     1>e:\comop sci 2\feetandinches\feetandinches\source.cpp(89): error C2248: 'FeetInches::inches': cannot access private member declared in class 'FeetInches'
+         e:\comop sci 2\feetandinches\feetandinches\source.cpp(9): note: see declaration of 'FeetInches::inches'
+         e:\comop sci 2\feetandinches\feetandinches\source.cpp(6): note: see declaration of 'FeetInches'
+     1>e:\comop sci 2\feetandinches\feetandinches\source.cpp(97): error C2248: 'FeetInches::feet': cannot access private member declared in class 'FeetInches'
+         e:\comop sci 2\feetandinches\feetandinches\source.cpp(8): note: see declaration of 'FeetInches::feet'
+         e:\comop sci 2\feetandinches\feetandinches\source.cpp(6): note: see declaration of 'FeetInches'
+     1>e:\comop sci 2\feetandinches\feetandinches\source.cpp(97): error C2248: 'FeetInches::inches': cannot access private member declared in class 'FeetInches'
+         e:\comop sci 2\feetandinches\feetandinches\source.cpp(9): note: see declaration of 'FeetInches::inches'
+         e:\comop sci 2\feetandinches\feetandinches\source.cpp(6): note: see declaration of 'FeetInches'
+     1>e:\comop sci 2\feetandinches\feetandinches\source.cpp(103): error C2248: 'FeetInches::feet': cannot access private member declared in class 'FeetInches'
+         e:\comop sci 2\feetandinches\feetandinches\source.cpp(8): note: see declaration of 'FeetInches::feet'
+         e:\comop sci 2\feetandinches\feetandinches\source.cpp(6): note: see declaration of 'FeetInches'
+     1>e:\comop sci 2\feetandinches\feetandinches\source.cpp(105): error C2248: 'FeetInches::inches': cannot access private member declared in class 'FeetInches'
+         e:\comop sci 2\feetandinches\feetandinches\source.cpp(9): note: see declaration of 'FeetInches::inches'
+         e:\comop sci 2\feetandinches\feetandinches\source.cpp(6): note: see declaration of 'FeetInches'
+     1>e:\comop sci 2\feetandinches\feetandinches\source.cpp(106): error C2248: 'FeetInches::simplify': cannot access private member declared in class 'FeetInches'
+         e:\comop sci 2\feetandinches\feetandinches\source.cpp(51): note: see declaration of 'FeetInches::simplify'
+         e:\comop sci 2\feetandinches\feetandinches\source.cpp(6): note: see declaration of 'FeetInches'
+     1>e:\comop sci 2\feetandinches\feetandinches\source.cpp(120): error C2059: syntax error: ';'
+     1>e:\comop sci 2\feetandinches\feetandinches\source.cpp(121): error C2059: syntax error: ';'
+     1>e:\comop sci 2\feetandinches\feetandinches\source.cpp(141): error C2059: syntax error: ';'
+     1>Done Building Project "E:\comop sci 2\Feetandinches\Feetandinches\Feetandinches.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.50
